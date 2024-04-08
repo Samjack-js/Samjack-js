@@ -1,4 +1,4 @@
-# Olá, sou [Seu Nome]! 👋
+# Olá, sou Gabriel Jaquim! 👋
 
 Bem-vindo(a) ao meu perfil no GitHub!
 
