@@ -1,6 +1,6 @@
 Hi, I'm Jack 👋
 
-I'm Gabriel J, a backend-oriented developer based in Portugal, currently moving deeper into cybersecurity, web security, bug bounty, OSINT, and AI-assisted security tooling.
+I'm a backend-oriented developer based in Portugal, currently moving deeper into cybersecurity, web security, bug bounty, OSINT, and AI-assisted security tooling.
 
 🧠 About Me
 Backend experience with JavaScript / Node.js
@@ -12,6 +12,7 @@ Building Jarvis/Mimir, a private local-first AI assistant focused on safe automa
 I like understanding how systems work, where they fail, and how to make them safer.
 
 🛠️ Languages & Tools
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,6 +60,8 @@ Event participant management system built during Rocketseat NLW Unite.
 I'm building toward cybersecurity, backend/security work, ethical hacking, AI-assisted tooling, and product development.
 
 Long-term goal: build useful security tools, improve as a professional, and create technology that gives people more control over their systems and workflows.
+
+---
 
 🔗 Connect with me:
 
