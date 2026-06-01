@@ -7,11 +7,12 @@ Backend experience with JavaScript / Node.js
 Studying Web Security, AppSec, Bug Bounty and Pentesting
 Focused on ethical, authorized security research
 Interested in OSINT, automation, APIs, security workflows and local-first AI systems
-Building Jarvis/Mimir, a private local-first AI assistant project focused on safe automation, permission gates, security boundaries and future audit workflows
+Building Jarvis/Mimir, a private local-first AI assistant focused on safe automation, permission gates, security boundaries and future audit workflows
 
 I like understanding how systems work, where they fail, and how to make them safer.
 
 🛠️ Languages & Tools
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -35,7 +36,7 @@ Developing a future AI Security Audit Assistant
 🚀 Projects
 Jarvis/Mimir — Private Local-First AI Assistant
 
-A private AI assistant project focused on local-first architecture, modular capabilities, permission gates, safe automation, readiness contracts and security boundaries.
+Private AI assistant project focused on local-first architecture, modular capabilities, permission gates, safe automation, readiness contracts and security boundaries.
 
 Security Exposure Audit — Coming Soon
 
@@ -44,7 +45,10 @@ A practical security audit workflow for small websites and businesses, focused o
 Fast ICMP Scanner
 
 A Python-based ICMP scanner for discovering active hosts in a subnet using raw sockets.
-- [Pass-in](https://github.com/Samjack-js/Pass-in) - Event participant management system
+
+- [Pass-in](https://github.com/Samjack-js/Pass-in)
+
+Event participant management system built during Rocketseat NLW Unite.
 
 (More cybersecurity-focused projects coming soon...)
 
